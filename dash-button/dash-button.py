@@ -6,7 +6,7 @@ import json
 import urllib2
 
 # Use your own IFTTT key, not this fake one
-ifttt_key = 'joSOZzlRBlJPusJwrlQWoRkJ_r96c0CeGqGkWH96oMP'
+ifttt_key = 'XXXX'
 # Set these up at https://ifttt.com/maker
 ifttt_doorbell = 'https://maker.ifttt.com/trigger/doorbell_pushed/with/key/' + ifttt_key
 
