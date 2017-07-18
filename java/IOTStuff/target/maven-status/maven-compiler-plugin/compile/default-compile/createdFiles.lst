@@ -1,0 +1,6 @@
+net/portly/mqtt/client/MQTTClient2.class
+net/portly/mqtt/client/JSONHelper.class
+net/portly/mqtt/client/ActionValuePair.class
+net/portly/mqtt/client/MQTTOptionsHelper.class
+net/portly/sqlite/client/DatabaseActions.class
+net/portly/mqtt/client/MQTTOptions.class

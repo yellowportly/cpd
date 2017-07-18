@@ -1,0 +1,3 @@
+net/portly/mqtt/client/JSONHelperTest.class
+net/portly/mqtt/client/MQTTOptionsTest.class
+net/portly/mqtt/client/MQTTOptionsHelperTest.class
