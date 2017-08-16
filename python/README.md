@@ -2,8 +2,11 @@
 
 Miscellaneous scripts for python code
 
-FourletterPhat uses these pins;-
+- pushme.py is the script to mamange the pushbutton activity that wil then display a value on the FourLetterPHAT
 
-https://pinout.xyz/pinout/four_letter_phat
+To run this at astartup, add an entry to /etc/rc.local as follows;-
+python /home/pi/dev/pushme.py /home/pi/smadata/SBFspot.db
 
-installation instructions also available there
+
+for reference, the FourletterPhat uses these pins;- https://pinout.xyz/pinout/four_letter_phat
+
