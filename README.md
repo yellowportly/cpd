@@ -26,4 +26,4 @@ Look in the indidivdual directories for code examples
   - Used to monitor the MQTT queue that the DHT11 is sending on and then to pop that data into the SQLite3 DB used by the cpd-web stuff
 
 - lua
-  - The LUA code used on the ESPs
+  - The LUA code used on the ESPs - currently sporting DHT11 code
